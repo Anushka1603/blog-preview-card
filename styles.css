@@ -1,0 +1,45 @@
+.figtree{
+    font-family: "Figtree";
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+.stv{
+    box-shadow: 8px 8px #111111;
+    border-radius: 20px;
+    background-color: white;
+}
+.abc{
+    margin: 218.5px auto;
+    width: 384px;
+}
+.pqr{
+    padding: 24px;
+}
+.attribution{
+    margin-top: 10px;
+}
+button{
+    font-family: Figtree;
+    font-weight: bolder;
+    font-size: 14px;
+    background-color: #F4D04E;
+    border: 0;
+    border-radius: 4px;
+    padding: 4px 12px;
+    margin-top: 24px;
+}
+h2{
+    color: #111111;
+    font-size: 24px;
+    font-family: Figtree;
+    font-weight: 800;
+}
+h4{
+    color: #111111;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: Figtree;
+    display: inline;
+    padding-left: 12px;
+    float: right;
+}
